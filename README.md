@@ -142,12 +142,6 @@ Pull requests are welcome! If you'd like to contribute:
 
 ---
 
-## License
-
-This project does not currently include a licence file. Please contact the author before using this code in other projects.
-
----
-
 ## Author
 
 **Mudit Atrey** — [@MuditAtrey](https://github.com/MuditAtrey)
